@@ -15,6 +15,6 @@ ADMIN_ID = 6312016802
 
 
 # Оплата
-CARD_NUMBER = "ТВОЯ_КАРТА"
+CARD_NUMBER = "2200 1513 3958 0875"
 CARD_OWNER = "@rusrodyyya"
 PRICE_BS = "99 ₽"
