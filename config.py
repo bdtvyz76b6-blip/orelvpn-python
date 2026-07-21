@@ -1,4 +1,4 @@
-BOT_TOKEN = "ТВОЙ_ТОКЕН"
+BOT_TOKEN = "8799505763:AAFTrQi-6AxO0wWskm3kUV1Evcnux_rI4y4"
 
 WIFI_LINK = "https://raw.githubusercontent.com/bdtvyz76b6-blip/vpn-sub/main/sub.txt"
 
@@ -16,5 +16,5 @@ ADMIN_ID = 6312016802
 
 # Оплата
 CARD_NUMBER = "ТВОЯ_КАРТА"
-CARD_OWNER = "ТВОЁ_ИМЯ"
+CARD_OWNER = "@rusrodyyya"
 PRICE_BS = "99 ₽"
